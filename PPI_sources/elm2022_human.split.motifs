@@ -1,0 +1,382 @@
+CLV_C14_Caspase3-7  [DSTE][^P][^DEWHFYC]D[GSAN]  # CLV_C14_Caspase3-7
+CLV_PCSK_FUR_1  R.[RK]R.  # CLV_PCSK_FUR_1
+CLV_PCSK_PC1ET2_1  KR.  # CLV_PCSK_PC1ET2_1
+CLV_PCSK_PC7_1  R...[KR]R.  # CLV_PCSK_PC7_1
+CLV_PCSK_SKI1_1  [RK].[AILMFV][LTKF].  # CLV_PCSK_SKI1_1
+CLV_Separin_Metazoa  E[IMPVL][MLVP]R.  # CLV_Separin_Metazoa
+CLV_TASPASE1  Q[MLVI]DG..[DE]  # CLV_TASPASE1
+DEG_APCC_DBOX_1  .R..L..[LIVM].  # DEG_APCC_DBOX_1
+DEG_APCC_KENBOX_2  .KEN.  # DEG_APCC_KENBOX_2
+DEG_APCC_TPR_1  .[ILM]R$  # DEG_APCC_TPR_1
+DEG_COP1_1_a  [STDE].{0,2}[TSDE].{2,3}VP[STDE]G[FLIMVYPA]  # variant 1/6
+DEG_COP1_1_b  [STDE].{0,2}[TSDE].{2,3}VP[STDE][FLIMVYPA]  # variant 2/6
+DEG_COP1_1_c  [STDE][STDE].{0,2}[TSDE].{2,3}VP[STDE]G[FLIMVYPA]  # variant 3/6
+DEG_COP1_1_d  [STDE][STDE].{0,2}[TSDE].{2,3}VP[STDE][FLIMVYPA]  # variant 4/6
+DEG_COP1_1_e  [STDE][STDE][STDE].{0,2}[TSDE].{2,3}VP[STDE]G[FLIMVYPA]  # variant 5/6
+DEG_COP1_1_f  [STDE][STDE][STDE].{0,2}[TSDE].{2,3}VP[STDE][FLIMVYPA]  # variant 6/6
+DEG_CRL4_CDT2_1_a  ..[ILMV][ST][DEN][FY][FY].{2,3}[KR][KR][KR][^DE]  # variant 1/4
+DEG_CRL4_CDT2_1_b  ..[ILMV][ST][DEN][FY][FY].{2,3}[KR][KR][^DE]  # variant 2/4
+DEG_CRL4_CDT2_1_c  [NQ]..[ILMV][ST][DEN][FY][FY].{2,3}[KR][KR][KR][^DE]  # variant 3/4
+DEG_CRL4_CDT2_1_d  [NQ]..[ILMV][ST][DEN][FY][FY].{2,3}[KR][KR][^DE]  # variant 4/4
+DEG_Kelch_KLHL3_1  E.EE.E[AV]DQH  # DEG_Kelch_KLHL3_1
+DEG_Kelch_Keap1_1  [DNS].[DES][TNS]GE  # DEG_Kelch_Keap1_1
+DEG_MDM2_SWIB_1_a  F[^P]{3}W[^P][^P][VIL]  # variant 1/2
+DEG_MDM2_SWIB_1_b  F[^P]{3}W[^P][^P][^P][VIL]  # variant 2/2
+DEG_ODPH_VHL_1  [IL]A(P).{6,8}[FLIVM].[FLIVM]  # DEG_ODPH_VHL_1
+DEG_SCF_FBW7_1  [LIVMP].{0,2}(T)P..([ST])  # DEG_SCF_FBW7_1
+DEG_SCF_FBW7_2  [LIVMP].{0,2}(T)P..E  # DEG_SCF_FBW7_2
+DEG_SCF_FBXO31_1  D[LVIM].[DAEN][VILM][^P][ILF]$  # DEG_SCF_FBXO31_1
+DEG_SCF_SKP2-CKS1_1  ..[DE].(T)P.K  # DEG_SCF_SKP2-CKS1_1
+DEG_SCF_TRCP1_1  D(S)G.{2,3}([ST])  # DEG_SCF_TRCP1_1
+DEG_SIAH_1  .P.A.V.P[^P]  # DEG_SIAH_1
+DEG_SPOP_SBC_1  [AVP].[ST][ST][ST]  # DEG_SPOP_SBC_1
+DOC_AGCK_PIF_1  F..[FWY][ST][FY]  # DOC_AGCK_PIF_1
+DOC_AGCK_PIF_2  F..[FWY][DE][FY]  # DOC_AGCK_PIF_2
+DOC_AGCK_PIF_3  F..F$  # DOC_AGCK_PIF_3
+DOC_ANK_TNKS_1  .R..[PGAV][DEIP]G.  # DOC_ANK_TNKS_1
+DOC_CYCLIN_D_Helix_1  [FLV][^P][^P][KR]L[^P][^P][LMIV][^P][^P][^P]R  # DOC_CYCLIN_D_Helix_1
+DOC_CYCLIN_RxL_1_a  .[^EDWNSG][^D][RK][^D]L.{0,1}[FL].{0,3}[EDST]  # variant 1/2
+DOC_CYCLIN_RxL_1_b  [KRH].{0,3}[^EDWNSG][^D][RK][^D]L.{0,1}[FL].{0,3}[EDST]  # variant 2/2
+DOC_GSK3_Axin_1  V[ED]P[^P][RK]FA[^P]ELI[^P]RLE[^P][VIL]  # DOC_GSK3_Axin_1
+DOC_MAPK_DCC_7_a  [RK].{2,4}[LIVP]P.[LIV].[LIVMF]  # variant 1/2
+DOC_MAPK_DCC_7_b  [RK].{2,4}[LIVP].P[LIV].[LIVMF]  # variant 2/2
+DOC_MAPK_FxFP_2  F.[FY]P  # DOC_MAPK_FxFP_2
+DOC_MAPK_HePTP_8_a  [LIV][^P][^P][RK]....[LIVMP].[LIV].[LIVMF]  # variant 1/2
+DOC_MAPK_HePTP_8_b  [LIV][^P][^P][RK][RK]G.{4,7}[LIVMP].[LIV].[LIVMF]  # variant 2/2
+DOC_MAPK_JIP1_4  [RK]P[^P][^P]L.[LIVMF]  # DOC_MAPK_JIP1_4
+DOC_MAPK_MEF2A_6  [RK].{2,4}[LIVMP].[LIV].[LIVMF]  # DOC_MAPK_MEF2A_6
+DOC_MAPK_NFAT4_5  [RK][^P][^P][LIM].L.[LIVMF].  # DOC_MAPK_NFAT4_5
+DOC_MAPK_RevD_3  [LIVMPFA].[LIV].{1,2}[LIVMP].{4,6}[LIV]..[RK][RK]  # DOC_MAPK_RevD_3
+DOC_MAPK_gen_1_a  [KR].{0,2}[KR].{2,4}[ILVM].[ILVF]  # variant 1/3
+DOC_MAPK_gen_1_b  [KR][KR].{0,2}[KR].{2,4}[ILVM].[ILVF]  # variant 2/3
+DOC_MAPK_gen_1_c  [KR][KR][KR].{0,2}[KR].{2,4}[ILVM].[ILVF]  # variant 3/3
+DOC_MIT_MIM_1_a  F[^P][^P]L[^P][^P]R[FL][^P][^P]L  # variant 1/6
+DOC_MIT_MIM_1_b  F[^P][^P]L[^P][^P]R[FL][^P][^P]L[KR]  # variant 2/6
+DOC_MIT_MIM_1_c  F[^P][^P]L[^P][^P]R[FL][^P][^P]L[KR][KR]  # variant 3/6
+DOC_MIT_MIM_1_d  [DE].{0,2}L[^P][^P]R[FL][^P][^P]L  # variant 4/6
+DOC_MIT_MIM_1_e  [DE].{0,2}L[^P][^P]R[FL][^P][^P]L[KR]  # variant 5/6
+DOC_MIT_MIM_1_f  [DE].{0,2}L[^P][^P]R[FL][^P][^P]L[KR][KR]  # variant 6/6
+DOC_PIKK_1  [DEN][DEN].{2,3}[ILMVA][DEN][DEN]L  # DOC_PIKK_1
+DOC_PP1_MyPhoNE_1_a  R[^P][DEQ]Q[VIL][RK][^P][YW]  # variant 1/2
+DOC_PP1_MyPhoNE_1_b  R[^P][DEQ]Q[VIL][^P][RK][YW]  # variant 2/2
+DOC_PP1_RVXF_1  ..[RK].{0,1}[VIL][^P][FW].  # DOC_PP1_RVXF_1
+DOC_PP1_SILK_1  .[GS]IL[KR][^DE]  # DOC_PP1_SILK_1
+DOC_PP2A_B56_1_a  (L..[IVLWC].E).  # variant 1/2
+DOC_PP2A_B56_1_b  [LMFYWIC]..I.E  # variant 2/2
+DOC_PP2B_LxvP_1  L.[LIVAPM]P  # DOC_PP2B_LxvP_1
+DOC_PP2B_PxIxI_1  .P[^P]I[^P][IV][^P]  # DOC_PP2B_PxIxI_1
+DOC_PP4_FxxP_1  F..P  # DOC_PP4_FxxP_1
+DOC_PP4_MxPP_1  M.PP  # DOC_PP4_MxPP_1
+DOC_SPAK_OSR1_1  RF[^P][IV].  # DOC_SPAK_OSR1_1
+DOC_USP7_MATH_1  [PA][^P][^FYWIL]S[^P]  # DOC_USP7_MATH_1
+DOC_USP7_UBL2_3  K...K  # DOC_USP7_UBL2_3
+DOC_WD40_RPTOR_TOS_1_a  F[EDQS][MILV][ED][MILV]$  # variant 1/2
+DOC_WD40_RPTOR_TOS_1_b  F[EDQS][MILV][ED][MILV].{0,1}[ED]  # variant 2/2
+DOC_WW_Pin1_4  ...([ST])P.  # DOC_WW_Pin1_4
+LIG_14-3-3_CterR_2_a  R[^DEPG]([ST])$  # variant 1/6
+LIG_14-3-3_CterR_2_b  R[^DEPG]([ST])[^P]$  # variant 2/6
+LIG_14-3-3_CterR_2_c  R[^DE][^DEPG]([ST])$  # variant 3/6
+LIG_14-3-3_CterR_2_d  R[^DE][^DEPG]([ST])[^P]$  # variant 4/6
+LIG_14-3-3_CterR_2_e  R[^DE][^DE][^DEPG]([ST])$  # variant 5/6
+LIG_14-3-3_CterR_2_f  R[^DE][^DE][^DEPG]([ST])[^P]$  # variant 6/6
+LIG_ANK_PxLPxL_1  P.LP.[IL].{1,3}[VLF]  # LIG_ANK_PxLPxL_1
+LIG_AP2alpha_1  F.D.F  # LIG_AP2alpha_1
+LIG_AP2alpha_2  DP[FW]  # LIG_AP2alpha_2
+LIG_APCC_ABBA_1  [ILVMF].[ILMVP][FHY].[DE]  # LIG_APCC_ABBA_1
+LIG_APCC_Cbox_1  [DE]R[YFH][ILFVM][PAG].R  # LIG_APCC_Cbox_1
+LIG_AP_GAE_1  [DE][DES][DEGAS]F[SGAD][DEAP][LVIMFD]  # LIG_AP_GAE_1
+LIG_ARL_BART_1  ^..LL[^P]IL[^P][^P][LM]  # LIG_ARL_BART_1
+LIG_ActinCP_TwfCPI_2  F.[KR]P..[PAS].{0,3}[RK]  # LIG_ActinCP_TwfCPI_2
+LIG_Actin_RPEL_3  [IL]..[^P][^P][^P][^P]R.....[IL]..[^P][^P][ILV][ILM]  # LIG_Actin_RPEL_3
+LIG_Actin_WH2_1_a  R..[ILVMF][ILMVF][^P][^P][ILVM].{4,7}LNK[VATI]  # variant 1/2
+LIG_Actin_WH2_1_b  R..[ILVMF][ILMVF][^P][^P][ILVM].{4,7}L[KR].[VATI]  # variant 2/2
+LIG_Actin_WH2_2_a  [^R]...[ILMVF][^P][^P][ILVM].{4,7}LNK[VATIGS]  # variant 1/4
+LIG_Actin_WH2_2_b  [^R]...[ILMVF][^P][^P][ILVM].{4,7}L[KR].[VATIGS]  # variant 2/4
+LIG_Actin_WH2_2_c  [^R]..[ILMVF].[^P][^P][ILVM].{4,7}LNK[VATIGS]  # variant 3/4
+LIG_Actin_WH2_2_d  [^R]..[ILMVF].[^P][^P][ILVM].{4,7}L[KR].[VATIGS]  # variant 4/4
+LIG_BH_BH3_1  ....[LIFVYMTE][ASGC][^P]{2}L[^P]{2}[IVMTL][GACS][D][^P][FVLMI].  # LIG_BH_BH3_1
+LIG_BIR_III_1_a  ^A.P.  # variant 1/2
+LIG_BIR_III_1_b  ^MA.P.  # variant 2/2
+LIG_BIR_III_2  DA.P.  # LIG_BIR_III_2
+LIG_BRCT_BRCA1_1  .(S)..F  # LIG_BRCT_BRCA1_1
+LIG_BRCT_BRCA1_2  .(S)..F.K  # LIG_BRCT_BRCA1_2
+LIG_BRCT_MDC1_1  .(S)..Y$  # LIG_BRCT_MDC1_1
+LIG_CAP-Gly_1  [ED].{0,2}[ED].{0,2}[EDQ].{0,1}[YF]$  # LIG_CAP-Gly_1
+LIG_CAP-Gly_2  .W[RK][DE]GCY$  # LIG_CAP-Gly_2
+LIG_CNOT1_NIM_1  [FY][^P].[WFY][^P]DY..L  # LIG_CNOT1_NIM_1
+LIG_CORNRBOX  L[^P][^P][HI]I[^P][^P][IAV][IL]  # LIG_CORNRBOX
+LIG_CSK_EPIYA_1  EP[IL]Y[TAG]  # LIG_CSK_EPIYA_1
+LIG_CSL_BTD_1  [AFILMPTVW]W[FHILMPSTVW]P  # LIG_CSL_BTD_1
+LIG_CaMK_CASK_1_a  SP[IV]W[IVL].R  # variant 1/2
+LIG_CaMK_CASK_1_b  [ED].{0,1}[IV]W[IVL].R  # variant 2/2
+LIG_CaM_IQ_9_a  [ACLIVTM][^P][^P][ILVMFCT]Q[^P][^P][^P][RK][^P][^P][^P][^P][RKQ][^P][^P]  # variant 1/2
+LIG_CaM_IQ_9_b  [ACLIVTM][^P][^P][ILVMFCT]Q[^P][^P][^P][RK][^P][^P][^P][^P][^P][RKQ][^P][^P]  # variant 2/2
+LIG_CaM_NSCaTE_8  W[^P][^P][^P][IL][^P][AGS][AT]  # LIG_CaM_NSCaTE_8
+LIG_Clathr_ClatBox_1  L[IVLMF].[IVLMF][DE]  # LIG_Clathr_ClatBox_1
+LIG_Clathr_ClatBox_2  .[NP]W[DES].W  # LIG_Clathr_ClatBox_2
+LIG_CtBP_PxDLS_1_a  G[LVIPME][DENS][LM][VASTRG]K  # variant 1/3
+LIG_CtBP_PxDLS_1_b  G[LVIPME][DENS][LM][VASTRG].[KR]  # variant 2/3
+LIG_CtBP_PxDLS_1_c  P[LVIPME][DENS][LM][VASTRG]  # variant 3/3
+LIG_DCNL_PONY_1  ^M[MIL].[MIL]  # LIG_DCNL_PONY_1
+LIG_DLG_GKlike_1_a  R..(S)[YFLM][^P][^P][ASG][LMVIQT]  # variant 1/2
+LIG_DLG_GKlike_1_b  R..(S)[YFLM][^P][^P][L]  # variant 2/2
+LIG_Dynein_DLC8_1  [^P].[KR].TQT  # LIG_Dynein_DLC8_1
+LIG_EABR_CEP55_1  .A.GPP.{2,3}Y.  # LIG_EABR_CEP55_1
+LIG_EF_ALG2_ABM_1_a  PYP.{1,6}YP  # variant 1/4
+LIG_EF_ALG2_ABM_1_b  PYP.{1,6}Y[QS]P  # variant 2/4
+LIG_EF_ALG2_ABM_1_c  P[PG]YP.{1,6}YP  # variant 3/4
+LIG_EF_ALG2_ABM_1_d  P[PG]YP.{1,6}Y[QS]P  # variant 4/4
+LIG_EF_ALG2_ABM_2  P.P.{0,1}GF  # LIG_EF_ALG2_ABM_2
+LIG_EH1_1  .[FYH].[IVM][^WFYP][^WFYP][ILM][ILMV].  # LIG_EH1_1
+LIG_EH_1  .NPF.  # LIG_EH_1
+LIG_EVH1_1_a  [FYWL]PP[ALIVTFY]P  # variant 1/2
+LIG_EVH1_1_b  [FYWL]P.PP  # variant 2/2
+LIG_EVH1_2  PP..F  # LIG_EVH1_2
+LIG_EVH1_3  [FY].[FW].....[LMVIF]P.P[DE]  # LIG_EVH1_3
+LIG_FAT_LD_1  [LV][DE][^P][LM][LM][^P][^P]L[^P]  # LIG_FAT_LD_1
+LIG_FHA_1  ..(T)..[ILV].  # LIG_FHA_1
+LIG_FHA_2  ..(T)..[DE].  # LIG_FHA_2
+LIG_FXI_DFP_1  [FYWHIL].DF[PD]  # LIG_FXI_DFP_1
+LIG_FZD_DVL_PDZ_a  W.{0,1}[VIL].[ST].KAT...W  # variant 1/2
+LIG_FZD_DVL_PDZ_b  W.{0,1}[VIL].[ST].KT...W  # variant 2/2
+LIG_G3BP_FGDF_1  [FYLIMV].FG[DES]F  # LIG_G3BP_FGDF_1
+LIG_GBD_Chelix_1  [ILV][VA][^P][^P][LI][^P][^P][^P][LM]  # LIG_GBD_Chelix_1
+LIG_GLEBS_BUB3_1  [EN][FYLW][NSQ].EE[ILMVF][^P][LIVMFA]  # LIG_GLEBS_BUB3_1
+LIG_GSK3_LRP6_1_a  PP[TP][ST]P[^P]  # variant 1/4
+LIG_GSK3_LRP6_1_b  PP[TP][ST]P[^P][TS]  # variant 2/4
+LIG_GSK3_LRP6_1_c  [CP]PP[ST]P[^P]  # variant 3/4
+LIG_GSK3_LRP6_1_d  [CP]PP[ST]P[^P][TS]  # variant 4/4
+LIG_GYF  [QHR].{0,1}P[PL]PP[GS]H[RH]  # LIG_GYF
+LIG_HCF-1_HBM_1  [DE]H.Y  # LIG_HCF-1_HBM_1
+LIG_HOMEOBOX  [FY][DEP]WM  # LIG_HOMEOBOX
+LIG_HP1_1  P[MVLIRWY]V[MVLIAS][LM]  # LIG_HP1_1
+LIG_IBAR_NPY_1  NPY  # LIG_IBAR_NPY_1
+LIG_IRF3_LxIS_1  [VILPF].{1,3}L.I(S)  # LIG_IRF3_LxIS_1
+LIG_Integrin_KxxGD_FGGC_5  K.[AV]GD.$  # LIG_Integrin_KxxGD_FGGC_5
+LIG_Integrin_RGDW_4  [RK]GDW  # LIG_Integrin_RGDW_4
+LIG_Integrin_RGD_1  RGD  # LIG_Integrin_RGD_1
+LIG_Integrin_RGD_TGFB_3  RGDL[^P][^P][LI]  # LIG_Integrin_RGD_TGFB_3
+LIG_Integrin_isoDGR_2  NGR  # LIG_Integrin_isoDGR_2
+LIG_KEPE_1  [VILMFT]K.EP.[DE]  # LIG_KEPE_1
+LIG_KEPE_2  [VILMFT]K.EP.{2,3}[DE]  # LIG_KEPE_2
+LIG_KEPE_3  [VILMFT]K.EP....[DE]  # LIG_KEPE_3
+LIG_KLC1_WD_1  [LMTAFSRI][^KRG]W[DE].{3,5}[LIVMFPA]  # LIG_KLC1_WD_1
+LIG_KLC1_Yacidic_2  [ED].{0,1}[IYVLMTF]Y[LIV][DE]  # LIG_KLC1_Yacidic_2
+LIG_LIR_LC3C_4  [EDST].{0,2}LVV  # LIG_LIR_LC3C_4
+LIG_LRP6_Inhibitor_1_a  [VILA].PN.IG.{0,6}[RK]  # variant 1/2
+LIG_LRP6_Inhibitor_1_b  [VILA]..N.I[RK]  # variant 2/2
+LIG_LSD1_SNAG_1_a  ^MPR.FLV[KR]K.  # variant 1/4
+LIG_LSD1_SNAG_1_b  ^MPR.FLV[KR].  # variant 2/4
+LIG_LSD1_SNAG_1_c  ^PR.FLV[KR]K.  # variant 3/4
+LIG_LSD1_SNAG_1_d  ^PR.FLV[KR].  # variant 4/4
+LIG_LYPXL_S_1  [ILVMF]YP.[ILVMF]  # LIG_LYPXL_S_1
+LIG_MAD2  [KR][IV][LV].....P  # LIG_MAD2
+LIG_MLH1_MIPbox_1  .S.[FY][F]  # LIG_MLH1_MIPbox_1
+LIG_MYND_1  P.L.P  # LIG_MYND_1
+LIG_MYND_2  PP.LI  # LIG_MYND_2
+LIG_MYND_3  [LMV]P.LE  # LIG_MYND_3
+LIG_Menin_MBM1_1_a  ...[RK]FP[GA][^DE]P  # variant 1/3
+LIG_Menin_MBM1_1_b  ...[RK][^DE]FP[GA][^DE]P  # variant 2/3
+LIG_Menin_MBM1_1_c  ...[RK][^DE][^DE]FP[GA][^DE]P  # variant 3/3
+LIG_Mtr4_Trf4_2  Q[RGQ]DF[LI][PS]L[DE]  # LIG_Mtr4_Trf4_2
+LIG_NBox_RRM_1  F..A[ILV]..A..[ILV]  # LIG_NBox_RRM_1
+LIG_NRBOX  [^P]L[^P][^P]LL[^P]  # LIG_NRBOX
+LIG_NRP_CendR_1  [RK].{0,2}R$  # LIG_NRP_CendR_1
+LIG_OCRL_FandH_1  .F[^P][^P][KRIL]H[^P][^P][YLMFH][^P]...  # LIG_OCRL_FandH_1
+LIG_PALB2_WD40_1  ....WF..L  # LIG_PALB2_WD40_1
+LIG_PAM2_1_a  ..[LFP][NS][PIVTAFL].A..W...  # variant 1/2
+LIG_PAM2_1_b  ..[LFP][NS][PIVTAFL].A..[FY].[PYLF].  # variant 2/2
+LIG_PAM2_2_a  WPPEF.PG.PWKG.  # variant 1/2
+LIG_PAM2_2_b  [FL][PV][APQ]EF.PG.PWKG.  # variant 2/2
+LIG_PCNA_APIM_2  [MLIV].[KR][FY][MLIVF][LIV][KR]  # LIG_PCNA_APIM_2
+LIG_PCNA_PIPBox_1_a  [QM].[^FHWY][LIVM][^P][^PFWYMLIV][FYHL][FYW]..  # variant 1/2
+LIG_PCNA_PIPBox_1_b  [QM].[^FHWY][LIVM][^P][^PFWYMLIV][FYH][FYWL]..  # variant 2/2
+LIG_PCNA_TLS_4_a  [KR]..[ILM][DE][^P][FY][FLI]  # variant 1/2
+LIG_PCNA_TLS_4_b  [KR]..[ILM][G][^P][FY][FLI].{0,1}[KR]  # variant 2/2
+LIG_PDZ_Class_1  ...[ST].[ACVILF]$  # LIG_PDZ_Class_1
+LIG_PDZ_Class_2  ...[VLIFY].[ACVILF]$  # LIG_PDZ_Class_2
+LIG_PDZ_Class_3  ...[DE].[ACVILF]$  # LIG_PDZ_Class_3
+LIG_PDZ_Wminus1_1  .W[ACGILV]$  # LIG_PDZ_Wminus1_1
+LIG_PROFILIN_1_a  PPP[PA]PP[LGP]  # variant 1/2
+LIG_PROFILIN_1_b  PPP[PA]P[LG]P  # variant 2/2
+LIG_PTAP_UEV_1  .P[TS]AP.  # LIG_PTAP_UEV_1
+LIG_PTB_Apo_2_a  .[ILVMFY].N..[FY].  # variant 1/2
+LIG_PTB_Apo_2_b  .[^P].NP.[FY].  # variant 2/2
+LIG_PTB_Phospho_1_a  .[ILVMFY].N..(Y)  # variant 1/2
+LIG_PTB_Phospho_1_b  .[^P].NP.(Y)  # variant 2/2
+LIG_Pex14_1  W...[FY]  # LIG_Pex14_1
+LIG_Pex14_2  F...[WF]  # LIG_Pex14_2
+LIG_Pex14_3  LV.EF[LM]  # LIG_Pex14_3
+LIG_Pex3_1  L..LL...L..F  # LIG_Pex3_1
+LIG_REV1ctd_RIR_1_a  ..FF[KR]  # variant 1/30
+LIG_REV1ctd_RIR_1_b  ..FF[KR][KR]  # variant 2/30
+LIG_REV1ctd_RIR_1_c  ..FF[KR][KR][^P]  # variant 3/30
+LIG_REV1ctd_RIR_1_d  ..FF[KR][KR][^P][^P]  # variant 4/30
+LIG_REV1ctd_RIR_1_e  ..FF[KR][KR][^P][^P][^P]  # variant 5/30
+LIG_REV1ctd_RIR_1_f  ..FF[KR][KR][^P][^P][^P][^P]  # variant 6/30
+LIG_REV1ctd_RIR_1_g  ..FF[KR][^P]  # variant 7/30
+LIG_REV1ctd_RIR_1_h  ..FF[KR][^P][^P]  # variant 8/30
+LIG_REV1ctd_RIR_1_i  ..FF[KR][^P][^P][^P]  # variant 9/30
+LIG_REV1ctd_RIR_1_j  ..FF[KR][^P][^P][^P][^P]  # variant 10/30
+LIG_REV1ctd_RIR_1_k  ..FF[^P][KR]  # variant 11/30
+LIG_REV1ctd_RIR_1_l  ..FF[^P][KR][KR]  # variant 12/30
+LIG_REV1ctd_RIR_1_m  ..FF[^P][KR][KR][^P]  # variant 13/30
+LIG_REV1ctd_RIR_1_n  ..FF[^P][KR][KR][^P][^P]  # variant 14/30
+LIG_REV1ctd_RIR_1_o  ..FF[^P][KR][KR][^P][^P][^P]  # variant 15/30
+LIG_REV1ctd_RIR_1_p  ..FF[^P][KR][KR][^P][^P][^P][^P]  # variant 16/30
+LIG_REV1ctd_RIR_1_q  ..FF[^P][KR][^P]  # variant 17/30
+LIG_REV1ctd_RIR_1_r  ..FF[^P][KR][^P][^P]  # variant 18/30
+LIG_REV1ctd_RIR_1_s  ..FF[^P][KR][^P][^P][^P]  # variant 19/30
+LIG_REV1ctd_RIR_1_t  ..FF[^P][KR][^P][^P][^P][^P]  # variant 20/30
+LIG_REV1ctd_RIR_1_u  ..FF[^P][^P][KR]  # variant 21/30
+LIG_REV1ctd_RIR_1_v  ..FF[^P][^P][KR][KR]  # variant 22/30
+LIG_REV1ctd_RIR_1_w  ..FF[^P][^P][KR][KR][^P]  # variant 23/30
+LIG_REV1ctd_RIR_1_x  ..FF[^P][^P][KR][KR][^P][^P]  # variant 24/30
+LIG_REV1ctd_RIR_1_y  ..FF[^P][^P][KR][KR][^P][^P][^P]  # variant 25/30
+LIG_REV1ctd_RIR_1_z  ..FF[^P][^P][KR][KR][^P][^P][^P][^P]  # variant 26/30
+LIG_REV1ctd_RIR_1_A  ..FF[^P][^P][KR][^P]  # variant 27/30
+LIG_REV1ctd_RIR_1_B  ..FF[^P][^P][KR][^P][^P]  # variant 28/30
+LIG_REV1ctd_RIR_1_C  ..FF[^P][^P][KR][^P][^P][^P]  # variant 29/30
+LIG_REV1ctd_RIR_1_D  ..FF[^P][^P][KR][^P][^P][^P][^P]  # variant 30/30
+LIG_RPA_C_Vert  [KRS]I[^P][^P][NK][KR][^P][^P]A[^P][^P][RKL][RKL][^P][^P][RK]  # LIG_RPA_C_Vert
+LIG_Rb_LxCxE_1_a  [DEST].{0,4}[LI].C.E.{1,4}[FLMIVAWPHY].{0,8}$  # variant 1/4
+LIG_Rb_LxCxE_1_b  [DEST].{0,4}[LI].C.E.{1,4}[FLMIVAWPHY].{0,8}[DEST]  # variant 2/4
+LIG_Rb_LxCxE_1_c  ^.{0,4}[LI].C.E.{1,4}[FLMIVAWPHY].{0,8}$  # variant 3/4
+LIG_Rb_LxCxE_1_d  ^.{0,4}[LI].C.E.{1,4}[FLMIVAWPHY].{0,8}[DEST]  # variant 4/4
+LIG_Rb_pABgroove_1  ..[LIMV]..[LM][FY]D.  # LIG_Rb_pABgroove_1
+LIG_Rrp6Rrp47_Mtr4_1  [ED]LF[^P][VC]F.{0,1}[ED]  # LIG_Rrp6Rrp47_Mtr4_1
+LIG_SH2_CRK  (Y)[^EPILVFYW][^HDEW][PLIV][^DEW]  # LIG_SH2_CRK
+LIG_SH2_GRB2like_a  (Y)[EDST]N.  # variant 1/2
+LIG_SH2_GRB2like_b  (Y)[MLIVAFYHQW]N.  # variant 2/2
+LIG_SH2_NCK_1  (Y)[DESTNA][^GWFY][VPAI][DENQSTAGYFP]  # LIG_SH2_NCK_1
+LIG_SH2_SRC  (Y)[QDEVAIL][DENPYHI][IPVGAHS]  # LIG_SH2_SRC
+LIG_SH2_STAP1  (Y)[DESTA][^GP][^GP][ILVFMWYA]  # LIG_SH2_STAP1
+LIG_SH2_STAT3  (Y)..Q  # LIG_SH2_STAT3
+LIG_SH2_STAT5  (Y)[VLTFIC]..  # LIG_SH2_STAT5
+LIG_SH2_STAT6  G(Y)[KQ].F  # LIG_SH2_STAT6
+LIG_SH3_1  [RKY]..P..P  # LIG_SH3_1
+LIG_SH3_2  P..P.[KR]  # LIG_SH3_2
+LIG_SH3_3  ...[PV]..P  # LIG_SH3_3
+LIG_SH3_4  KP..[QK]...  # LIG_SH3_4
+LIG_SH3_5  P..DY  # LIG_SH3_5
+LIG_SH3_CIN85_PxpxPR_1  P.[AP].PR  # LIG_SH3_CIN85_PxpxPR_1
+LIG_SPRY_1  [ED][LIV]NNN[^P]  # LIG_SPRY_1
+LIG_SUFU_1  [SV][CY]GH[LIF][LAST][GAIV].  # LIG_SUFU_1
+LIG_Sin3_1  [LIV]..[LM]L.AA.[FY][LI]  # LIG_Sin3_1
+LIG_Sin3_2  [FHYM].A[AV].[VAC]L[MV].[MI]  # LIG_Sin3_2
+LIG_Sin3_3  [FA].[LA][LV][LVI]..[AM]  # LIG_Sin3_3
+LIG_SxIP_EBH_1_a  [KR][ST].IP[^ED][^ED][^ED][^ED][^ED]  # variant 1/12
+LIG_SxIP_EBH_1_b  [KR][^ED][ST].IP[^ED][^ED][^ED][^ED][^ED]  # variant 2/12
+LIG_SxIP_EBH_1_c  [KR][^ED][^ED][ST].IP[^ED][^ED][^ED][^ED][^ED]  # variant 3/12
+LIG_SxIP_EBH_1_d  [KR][^ED][^ED][^ED][ST].IP[^ED][^ED][^ED][^ED][^ED]  # variant 4/12
+LIG_SxIP_EBH_1_e  [KR][^ED][^ED][^ED][^ED][ST].IP[^ED][^ED][^ED][^ED][^ED]  # variant 5/12
+LIG_SxIP_EBH_1_f  [KR][^ED][^ED][^ED][^ED][^ED][ST].IP[^ED][^ED][^ED][^ED][^ED]  # variant 6/12
+LIG_SxIP_EBH_1_g  [^ED][^ED][^ED][^ED][^ED][ST].IP[KR]  # variant 7/12
+LIG_SxIP_EBH_1_h  [^ED][^ED][^ED][^ED][^ED][ST].IP[^ED][KR]  # variant 8/12
+LIG_SxIP_EBH_1_i  [^ED][^ED][^ED][^ED][^ED][ST].IP[^ED][^ED][KR]  # variant 9/12
+LIG_SxIP_EBH_1_j  [^ED][^ED][^ED][^ED][^ED][ST].IP[^ED][^ED][^ED][KR]  # variant 10/12
+LIG_SxIP_EBH_1_k  [^ED][^ED][^ED][^ED][^ED][ST].IP[^ED][^ED][^ED][^ED][KR]  # variant 11/12
+LIG_SxIP_EBH_1_l  [^ED][^ED][^ED][^ED][^ED][ST].IP[^ED][^ED][^ED][^ED][^ED][KR]  # variant 12/12
+LIG_TPR  EEVD$  # LIG_TPR
+LIG_TRAF2_1  [PSAT].[QE]E  # LIG_TRAF2_1
+LIG_TRAF4_MATH_1  RL[^P].R  # LIG_TRAF4_MATH_1
+LIG_TRAF6_MATH_1  ..P[^P]E[^P].[FYWHDE].  # LIG_TRAF6_MATH_1
+LIG_TRFH_1  [FY].L.P  # LIG_TRFH_1
+LIG_TYR_ITIM  [ILV].(Y)..[ILV]  # LIG_TYR_ITIM
+LIG_TYR_ITSM  ..T.(Y)..[IV]  # LIG_TYR_ITSM
+LIG_UBA3_1  [ILM][ILMF].{1,2}[ILM].{0,4}K  # LIG_UBA3_1
+LIG_UFM1_UFIM_1  [ND].WGI.[LIV][VMLI].{0,1}[ED]  # LIG_UFM1_UFIM_1
+LIG_ULM_U2AF65_1_a  [KR][KR].[KR]W.  # variant 1/4
+LIG_ULM_U2AF65_1_b  [KR][KR][KR].[KR]W.  # variant 2/4
+LIG_ULM_U2AF65_1_c  [KR][KR][KR][KR].[KR]W.  # variant 3/4
+LIG_ULM_U2AF65_1_d  [KR][KR][KR][KR][KR].[KR]W.  # variant 4/4
+LIG_Vh1_VBS_1  [VMILF][MILVFYHPA][^P][TASKHCV][AVSC][^P][^P][ILVMT][^P][^P][^P][LMTVI][^P][^P][LMVCT][ILVMCA][^P][^P][AIVLMTC]  # LIG_Vh1_VBS_1
+LIG_WD40_WDR5_VDV_1  [ED].{0,3}[VIL]D[VI]  # LIG_WD40_WDR5_VDV_1
+LIG_WD40_WDR5_WIN_1  [SCA]AR[STCA][EQR][PGILVM][HYFQNKRLVI]  # LIG_WD40_WDR5_WIN_1
+LIG_WH1  ES[RK][FY].F[HR][PST][IVLM][DES][DE]  # LIG_WH1
+LIG_WRC_WIRS_1_a  [FYILMV].[TS]FG.  # variant 1/2
+LIG_WRC_WIRS_1_b  [FYILMV].[TS]F[^P].  # variant 2/2
+LIG_WRPW_1  [WFY]RP[WFY].{0,7}$  # LIG_WRPW_1
+LIG_WW_1  PP.Y  # LIG_WW_1
+LIG_eIF4E_1  Y....L[VILMF]  # LIG_eIF4E_1
+LIG_eIF4E_2  Y.PP.[ILMV]R  # LIG_eIF4E_2
+MOD_ASX_betaOH_EGF  C.([DN]).{4,4}[FY].C.C  # MOD_ASX_betaOH_EGF
+MOD_CAAXbox  (C)[^DENQ][LIVMF].$  # MOD_CAAXbox
+MOD_CDC14_SPxK_1  (S)P.[KR]  # MOD_CDC14_SPxK_1
+MOD_CDK_SPK_2  ...([ST])P[RK]  # MOD_CDK_SPK_2
+MOD_CDK_SPxK_1  ...([ST])P.[KR]  # MOD_CDK_SPxK_1
+MOD_CDK_SPxxK_3  ...([ST])P..[RK]  # MOD_CDK_SPxxK_3
+MOD_CK1_1  S..([ST])...  # MOD_CK1_1
+MOD_CK2_1  ...([ST])..E  # MOD_CK2_1
+MOD_CMANNOS  (W)..W  # MOD_CMANNOS
+MOD_DYRK1A_RPxSP_1  R[PSVA].([ST])P  # MOD_DYRK1A_RPxSP_1
+MOD_GSK3_1  ...([ST])...[ST]  # MOD_GSK3_1
+MOD_LATS_1  H.[KR]..([ST])[^P]  # MOD_LATS_1
+MOD_N-GLC_1  .(N)[^P][ST]..  # MOD_N-GLC_1
+MOD_N-GLC_2  (N)[^P]C  # MOD_N-GLC_2
+MOD_NMyristoyl_a  ^(G)[^EDRKHPFYW]..[STAGCN][^P]  # variant 1/2
+MOD_NMyristoyl_b  ^M(G)[^EDRKHPFYW]..[STAGCN][^P]  # variant 2/2
+MOD_OFUCOSY  C.{3,5}([ST])C  # MOD_OFUCOSY
+MOD_OGLYCOS  C.(S).PC  # MOD_OGLYCOS
+MOD_PIKK_1  ...([ST])Q..  # MOD_PIKK_1
+MOD_PKA_1  [RK][RK].([ST])[^P]..  # MOD_PKA_1
+MOD_PKA_2  .R.([ST])[^P]..  # MOD_PKA_2
+MOD_PKB_1  R.R..([ST])[^P]..  # MOD_PKB_1
+MOD_PRMT_GGRGG_1  GGRGG  # MOD_PRMT_GGRGG_1
+MOD_Plk_1_a  .[DNE][^PG][ST]([^PEDGKN][FWYLIVM]).  # variant 1/2
+MOD_Plk_1_b  .[DNE][^PG][ST][FYILMVW]..  # variant 2/2
+MOD_Plk_2-3_a  [DE]..([ST])[EDILMVFWY].[DE]  # variant 1/2
+MOD_Plk_2-3_b  [DE]..([ST])[EDILMVFWY][DE].  # variant 2/2
+MOD_Plk_4  ..[^IRFW]([ST])[ILMVFWY][ILMVFWY].  # MOD_Plk_4
+MOD_ProDKin_1  ...([ST])P..  # MOD_ProDKin_1
+MOD_SPalmitoyl_2  G(C)M[GS][CL][KP]C  # MOD_SPalmitoyl_2
+MOD_SPalmitoyl_4_a  ^G(C)..S[AKS]  # variant 1/2
+MOD_SPalmitoyl_4_b  ^MG(C)..S[AKS]  # variant 2/2
+MOD_SUMO_for_1  [VILMAFP](K).E  # MOD_SUMO_for_1
+MOD_SUMO_rev_2  [SDE].{0,5}[DE].(K).{0,1}[AIFLMPSTV]  # MOD_SUMO_rev_2
+MOD_TYR_CSK  [TAD][EA].Q(Y)[QE].[GQA][PEDLS]  # MOD_TYR_CSK
+MOD_TYR_DYR  ..[RKTC][IVL]Y[TQHS](Y)[IL]QSR  # MOD_TYR_DYR
+TRG_AP2beta_CARGO_1  [DE].{1,2}F[^P][^P][FL][^P][^P][^P]R  # TRG_AP2beta_CARGO_1
+TRG_Cilium_RVxP_2  RV.P.  # TRG_Cilium_RVxP_2
+TRG_DiLeu_BaEn_1  E..[^P]L[LIVM]  # TRG_DiLeu_BaEn_1
+TRG_DiLeu_BaEn_2  [^E]E...F[LIVM]  # TRG_DiLeu_BaEn_2
+TRG_DiLeu_BaEn_3  EE...[FIM][LIVM]  # TRG_DiLeu_BaEn_3
+TRG_DiLeu_BaEn_4  EE...L[^LIVMF]  # TRG_DiLeu_BaEn_4
+TRG_DiLeu_BaLyEn_6  [^E]..[RP]L[LI]  # TRG_DiLeu_BaLyEn_6
+TRG_DiLeu_LyEn_5  [E]..[RP]L[LI]  # TRG_DiLeu_LyEn_5
+TRG_ENDOCYTIC_2  Y..[LMVIF]  # TRG_ENDOCYTIC_2
+TRG_ER_FFAT_1  [EDS].{0,4}[ED][FY][FYKREM][DE][AC].{1,2}[EDST]  # TRG_ER_FFAT_1
+TRG_ER_FFAT_2  [EDS].{0,4}[EDSQN][FY][FYMITH]([ST])[ACP].{1,2}[EDST]  # TRG_ER_FFAT_2
+TRG_ER_KDEL_1  [KRHQSAP][DENQT]EL$  # TRG_ER_KDEL_1
+TRG_ER_diArg_1_a  RR[LIVMFYWPR]  # variant 1/4
+TRG_ER_diArg_1_b  R[^YFWDE]R[LIVMFYWPR]  # variant 2/4
+TRG_ER_diArg_1_c  [LIVMFYWPR]RR  # variant 3/4
+TRG_ER_diArg_1_d  [LIVMFYWPR]R[^YFWDE]R  # variant 4/4
+TRG_ER_diLys_1  K.{0,1}K.{2,3}$  # TRG_ER_diLys_1
+TRG_Golgi_diPhe_1  Q.{6,6}FF.{6,7}$  # TRG_Golgi_diPhe_1
+TRG_LysEnd_GGAAcLL_1  D..LL.{1,2}$  # TRG_LysEnd_GGAAcLL_1
+TRG_LysEnd_GGAAcLL_2  S[LW]LD[DE]EL[LM]  # TRG_LysEnd_GGAAcLL_2
+TRG_NES_CRM1_1_a  [DEQ].{0,1}[LIM].{2,3}[LIVMF][^P][^P][LMVF].[LMIV].{0,3}[DE]  # variant 1/4
+TRG_NES_CRM1_1_b  [DEQ].{0,1}[LIM].{2,3}[LIVMF][^P][^P][^P][LMVF].[LMIV].{0,3}[DE]  # variant 2/4
+TRG_NES_CRM1_1_c  [DE].{0,1}[LIM].{2,3}[LIVMF][^P][^P][LMVF].[LMIV].{0,3}[DEQ]  # variant 3/4
+TRG_NES_CRM1_1_d  [DE].{0,1}[LIM].{2,3}[LIVMF][^P][^P][^P][LMVF].[LMIV].{0,3}[DEQ]  # variant 4/4
+TRG_NLS_MonoCore_2_a  [^DE]K[RK][KRP][KR][^DE]  # variant 1/2
+TRG_NLS_MonoCore_2_b  [^DE]RK[KRP][KR][^DE]  # variant 2/2
+TRG_NLS_MonoExtC_3_a  [^DE]K[RK][KR][^DE][PKR]  # variant 1/8
+TRG_NLS_MonoExtC_3_b  [^DE]K[RK][KR][^DE][^DE][DE]  # variant 2/8
+TRG_NLS_MonoExtC_3_c  [^DE]K[RK][^DE][KR][PKR]  # variant 3/8
+TRG_NLS_MonoExtC_3_d  [^DE]K[RK][^DE][KR][^DE][DE]  # variant 4/8
+TRG_NLS_MonoExtC_3_e  [^DE]RK[KR][^DE][PKR]  # variant 5/8
+TRG_NLS_MonoExtC_3_f  [^DE]RK[KR][^DE][^DE][DE]  # variant 6/8
+TRG_NLS_MonoExtC_3_g  [^DE]RK[^DE][KR][PKR]  # variant 7/8
+TRG_NLS_MonoExtC_3_h  [^DE]RK[^DE][KR][^DE][DE]  # variant 8/8
+TRG_NLS_MonoExtN_4_a  [PKR]K[RK][KR][^DE][^DE]  # variant 1/8
+TRG_NLS_MonoExtN_4_b  [PKR]K[RK][^DE][KR][^DE]  # variant 2/8
+TRG_NLS_MonoExtN_4_c  [PKR]RK[KR][^DE][^DE]  # variant 3/8
+TRG_NLS_MonoExtN_4_d  [PKR]RK[^DE][KR][^DE]  # variant 4/8
+TRG_NLS_MonoExtN_4_e  [PKR].{0,1}[^DE]K[RK][KR][^DE][^DE]  # variant 5/8
+TRG_NLS_MonoExtN_4_f  [PKR].{0,1}[^DE]K[RK][^DE][KR][^DE]  # variant 6/8
+TRG_NLS_MonoExtN_4_g  [PKR].{0,1}[^DE]RK[KR][^DE][^DE]  # variant 7/8
+TRG_NLS_MonoExtN_4_h  [PKR].{0,1}[^DE]RK[^DE][KR][^DE]  # variant 8/8
+TRG_PTS1_a  .[SAPTC][KRH][LMFI]$  # variant 1/2
+TRG_PTS1_b  [KRH][SAPTC][NTS][LMFI]$  # variant 2/2

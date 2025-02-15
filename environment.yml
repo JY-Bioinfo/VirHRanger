@@ -1,0 +1,28 @@
+name: VirHRanger
+channels:
+  - pytorch  # Required for PyTorch
+  - nvidia   # Required for CUDA toolkit
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.10
+  - cudatoolkit=11.1  # CUDA 11.1
+  - pytorch=1.8.1     # PyTorch with CUDA 11.1 support
+  - pip=23.3.1
+  - pip:
+      # Local editable install of transformers
+      - -e .
+      # List packages explicitly 
+      - datasets==1.14.0
+      - accelerate==0.5.1
+      - biopython==1.78
+      - pandas==1.3.5
+      - scikit-learn==0.24.0
+      - tables
+      - numpy==1.20.2
+      - tokenizers==0.10.3
+      - sentencepiece==0.1.96
+      - tensorboard==2.5.0
+      - protobuf==3.16.0
+
+

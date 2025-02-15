@@ -1,0 +1,53 @@
+LOCUS       KY432458                 392 bp    RNA     linear   VRL 20-MAR-2017
+DEFINITION  Bat coronavirus isolate 16BO133 RNA-dependent RNA polymerase gene,
+            partial cds.
+ACCESSION   KY432458
+VERSION     KY432458.1
+KEYWORDS    .
+SOURCE      Bat coronavirus
+  ORGANISM  Bat coronavirus
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Coronavirinae.
+REFERENCE   1  (bases 1 to 392)
+  AUTHORS   Lee,S.M., Jo,S.D., Son,K.D., An,I.J., Jeong,J.S., Wang,S.J.,
+            Kim,Y.K., Jheong,W.H. and Oem,J.K.
+  TITLE     Prevalence and genetic characteristics of Coronavirus from Korean
+            Bats
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 392)
+  AUTHORS   Lee,S.M., Jo,S.D., Son,K.D., An,I.J., Jeong,J.S., Wang,S.J.,
+            Kim,Y.K., Jheong,W.H. and Oem,J.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2017) Biosafety research team, Environmental
+            Health Research Department, National Institute of Environmental
+            Research, Environmental Research Complex, Hwangyeong-ro 42, Seo-gu,
+            Incheon 22689, South Korea
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..392
+                     /organism="Bat coronavirus"
+                     /mol_type="genomic RNA"
+                     /isolate="16BO133"
+                     /isolation_source="oral swab"
+                     /host="Rhinolophus ferrumequinum"
+                     /db_xref="taxon:1508220"
+                     /country="South Korea"
+                     /collection_date="Apr-2016"
+     CDS             <1..>392
+                     /codon_start=1
+                     /product="RNA-dependent RNA polymerase"
+                     /protein_id="AQY62605.1"
+                     /translation="RAMPNMLRIMASLVLARKHSTCCNLSHRFYRLANECAQVLSEMVM
+                     CGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNAILSTDGNKIADKYVRNIQHRL
+                     YECLYRNRDVDHEFVDEFYAYLRKHFS"
+ORIGIN
+        1 agagccatgc ctaacatgct tagaattatg gcttcacttg ttcttgctcg caaacatagc
+       61 acttgttgta acttgtcaca ccgtttctat agattagcta atgagtgtgc gcaagtatta
+      121 agtgagatgg tcatgtgtgg aggctcacta tatgtaaaac caggtggaac gtcatcaggt
+      181 gatgccacaa ctgcctacgc taatagtgtg tttaacatct gtcaagcggt gacagctaat
+      241 gtaaatgcaa ttctctcaac tgatggtaac aagattgctg ataagtacgt tcgcaacatc
+      301 caacacaggc tatatgagtg tctctataga aatagagacg ttgatcatga atttgtggac
+      361 gaattttacg catatttgcg taagcacttc tc
+//
