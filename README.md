@@ -185,8 +185,6 @@ If you have used VirHRanger in your research, please kindly cite the following p
 	year = {2025},
 	doi = {10.1101/2025.02.13.638012},
 	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2025/02/14/2025.02.13.638012},
-	eprint = {https://www.biorxiv.org/content/early/2025/02/14/2025.02.13.638012.full.pdf},
 	journal = {bioRxiv}
 }
 
