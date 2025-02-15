@@ -8,13 +8,13 @@ This repository contains the code for implementing the ensemble model VirHRanger
 
 ## Contents
 
-- [Setup](#setup-)
-- [HuggingFace](#huggingface-)
+- [Setup](#setup-%EF%B8%8F)
+- [HuggingFace Repository](#huggingface-repository-)
 - [Input](#input-)
 - [Options](#options-)
-- [Usage](#usage-)
+- [Usage](#usage-%EF%B8%8F)
 - [Citation](#citation-)
-- [Troubleshooting](#troubleshooting-)
+- [Troubleshooting](#troubleshooting-%EF%B8%8F)
 - [License](#license-)
 
 ## Setup ⚙️
@@ -85,7 +85,7 @@ CPB Machine is a java program developed for extracting various features from vir
 - **Setup Instructions**: Please download the CPB_Machine.jar program from the GitHub repository and put into the correct path.
 
 
-## HuggingFace 🤗
+## HuggingFace Repository🤗
 
 All models can be directly downloaded from the github repository, with the support from Git LFS. 
 Due to the large file sizes of protein and genomic foundation models, We provide an alternative download option from the HuggingFace repository (https://huggingface.co/JYBioinfo/VirHRanger/).
