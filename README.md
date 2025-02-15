@@ -85,7 +85,7 @@ CPB Machine is a java program developed for extracting various features from vir
 - **Setup Instructions**: Please download the CPB_Machine.jar program from the GitHub repository and put into the correct path.
 
 
-## HuggingFace Repository🤗
+## HuggingFace Repository 🤗
 
 All models can be directly downloaded from the github repository, with the support from Git LFS. 
 Due to the large file sizes of protein and genomic foundation models, We provide an alternative download option from the HuggingFace repository (https://huggingface.co/JYBioinfo/VirHRanger/).
