@@ -1,3 +1,4 @@
 .pt filter=lfs diff=lfs merge=lfs -text
 .bin filter=lfs diff=lfs merge=lfs -text
 Model/Genomic_FM/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+Model/Protein_FM/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
