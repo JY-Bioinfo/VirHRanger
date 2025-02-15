@@ -87,7 +87,8 @@ CPB Machine is a java program developed for extracting various features from vir
 
 ## HuggingFace Repository 🤗
 
-We stored the finetuned genomic and protein foundation models of viruses on the HuggingFace repository.
+All models can be directly downloaded from the github repository, with the support from Git LFS. 
+Due to the large file sizes of protein and genomic foundation models, We provide an alternative download option from the HuggingFace repository (https://huggingface.co/JYBioinfo/VirHRanger/).
 
 ## Input 🧬
 
